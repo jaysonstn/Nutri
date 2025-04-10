@@ -1,0 +1,14 @@
+Projeto de página web para nutrição.
+-Desenvolvido por www.jotasoftwares.com.br
+
+Desenvolvido com HTML, CSS, BootStrap e JavaScript.
+Utilizando também a ferramenta emailjs para envio de email via frontend.
+
+
+
+Pendências:
+
+*Configurar emailjs antes de realizar o deploy para o cliente.
+*Validar informações (nomes, contatos, etc)
+*Validar botões, funcionamento do formulário e recebimento de email.
+
